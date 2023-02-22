@@ -3,7 +3,7 @@ Results of testing ChatGPT on the 100 most recent Leetcode questions.
 
 Each file in the `solutions` folder contains the prompt used, and the generated code. The file name is the Leetcode question number.
 
-You can see an analysis of the results on my blog.
+You can see an analysis of the results on my [blog](https://dkb.blog/p/chatgpt-fails-the-coding-interview?sd=pf).
 
 ![ChatGPT LeetCode Performance (1)](https://user-images.githubusercontent.com/7234013/220692936-29d68094-62c0-4384-9f3d-67c359c12684.png)
 
